@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --h6: Montserrat;
+
+  /* font sizes */
+  --h6-size: 14px;
+  --h3-size: 24px;
+  --h2-size: 40px;
+  --h5-size: 16px;
+  --small-size: 12px;
+
+  /* Colors */
+  --light-text-color: #fff;
+  --light-gray-1: #fafafa;
+  --second-text-color: #737373;
+  --dark-background-color: #252b42;
+  --primary-color: #23a6f0;
+  --color-gainsboro: #e6e6e6;
+  --secondary-color-1: #40bb15;
+  --muted-color: #bdbdbd;
+  --danger-color: #e74040;
+
+  /* Gaps */
+  --gap-11xl: 30px;
+  --gap-xl: 20px;
+  --gap-3xs: 10px;
+  --gap-61xl: 80px;
+  --gap-mini: 15px;
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-6xl: 25px;
+  --padding-141xl: 160px;
+  --padding-11xl: 30px;
+  --padding-16xl: 35px;
+  --padding-3xs: 10px;
+  --padding-xl: 20px;
+  --padding-mini: 15px;
+  --padding-8xs: 5px;
+  --padding-10xs: 3px;
+  --padding-21xl: 40px;
+  --padding-3xl: 22px;
+  --padding-lgi: 19px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-181xl: 200px;
+  --br-18xl: 37px;
+  --br-xl: 20px;
+  --br-10xs: 3px;
+  --br-25xl-8: 44.8px;
+  --br-3xs: 10px;
+
+  /* Effects */
+  --light-drop-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  --accentued-drop-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+}
